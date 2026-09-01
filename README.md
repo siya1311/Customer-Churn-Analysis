@@ -33,6 +33,9 @@ Used SQL to calculate churn rates and segment customers by contract, tenure, int
 ### Tableau
 Created an interactive dashboard to visualize churn patterns and communicate key findings.
 
+### Dashboard
+![Telco Customer Churn Dashboard](dashboard.png)
+
 ## Recommendations
 - Focus retention efforts on newer customers during their first several months.
 - Focus on high churn rate among month-to-month customers.
